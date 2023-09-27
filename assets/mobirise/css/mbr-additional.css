@@ -2537,7 +2537,9 @@ a {
   }
 }
 .cid-tQVeRjJN7Z {
-  background-image: url("../../../assets/images/banner-fale-conosco.jpg");
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-image: url("../../../assets/images/banner-fale-conosco.jpeg");
 }
 .cid-tQVeRjJN7Z .mbr-fallback-image.disabled {
   display: none;
